@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '5049'
     url: http://www.gutenberg.org/2009/agents/5049
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35857#The-Motor-Maids-by-Rose-Shamrock-and-Thistle
 gutenberg_issued: '2011-04-12'
 gutenberg_type: Text
 identifiers:
