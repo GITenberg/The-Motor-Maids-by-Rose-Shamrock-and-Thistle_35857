@@ -1,0 +1,35 @@
+_repo: The-Motor-Maids-by-Rose-Shamrock-and-Thistle_35857
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wrenn, Charles L. (Charles Lewis)
+    birthdate: 1880
+    deathdate: 1952
+    gutenberg_agent_id: '25468'
+    url: http://www.gutenberg.org/2009/agents/25468
+covers:
+- cover_type: archival
+  image_path: 35857-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stokes, Katherine
+    gutenberg_agent_id: '5049'
+    url: http://www.gutenberg.org/2009/agents/5049
+description: ''
+gutenberg_issued: '2011-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35857'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Scotland -- Description and travel -- Juvenile fiction'
+- !lcsh 'England -- Description and travel -- Juvenile fiction'
+- !lcsh 'Automobile travel -- Juvenile fiction'
+- !lcsh 'Ireland -- Description and travel -- Juvenile fiction'
+title: The Motor Maids by Rose, Shamrock and Thistle
+url: http://www.gutenberg.org/ebooks/35857
